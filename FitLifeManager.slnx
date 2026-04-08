@@ -1,5 +1,12 @@
 <Solution>
-  <Folder Name="/Code/" />
+  <Folder Name="/Code/">
+    <Project Path="Code/Aids/Aids.csproj" Id="49270efc-fef0-4c0f-9fa2-2bd1a445485c" />
+    <Project Path="Code/Data/Data.csproj" Id="04b16503-c367-4c88-8519-9eda745ef376" />
+    <Project Path="Code/Domain/Domain.csproj" Id="094ce340-852d-424a-aaa7-c84bc204d3c9" />
+    <Project Path="Code/Infra/Infra.csproj" Id="2297f953-da0a-45d9-884c-d9a00b32663e" />
+    <Project Path="Code/Jobs/Jobs.csproj" Id="149b59fe-5ad9-4d27-b35e-30359e930394" />
+    <Project Path="Code/Shared/Shared.csproj" Id="2ca42a61-aae2-40cf-a8c4-758ea03cb318" />
+  </Folder>
   <Folder Name="/Soft/">
     <Project Path="Soft/FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
     <Project Path="Soft/FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
