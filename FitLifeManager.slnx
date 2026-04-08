@@ -1,4 +1,5 @@
 <Solution>
+  <Folder Name="/Code/" />
   <Folder Name="/Soft/">
     <Project Path="Soft/FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
     <Project Path="Soft/FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
