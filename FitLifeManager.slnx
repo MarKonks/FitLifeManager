@@ -1,10 +1,6 @@
 <Solution>
-  <Folder Name="/Soft/">
-    <Project Path="Soft/FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
-    <Project Path="Soft/FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
-  </Folder>
-  <Folder Name="/Tests/">
-    <Project Path="Tests/Aids/Aids.csproj" />
-    <Project Path="Tests/Data/Data.csproj" />
-  </Folder>
+  <Folder Name="/llll/" />
+  <Project Path="FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
+  <Project Path="FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
+  <Project Path="RazorClassLibrary1/RazorClassLibrary1.csproj" />
 </Solution>
