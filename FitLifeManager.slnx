@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
+  <Project Path="FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
+</Solution>
