@@ -1,6 +1,4 @@
 <Solution>
-  <Folder Name="/llll/" />
   <Project Path="FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
   <Project Path="FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
-  <Project Path="RazorClassLibrary1/RazorClassLibrary1.csproj" />
 </Solution>
