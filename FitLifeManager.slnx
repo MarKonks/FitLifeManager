@@ -1,4 +1,10 @@
 <Solution>
-  <Project Path="FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
-  <Project Path="FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
+  <Folder Name="/Soft/">
+    <Project Path="FitLifeManager/FitLifeManager.Client/FitLifeManager.Client.csproj" />
+    <Project Path="FitLifeManager/FitLifeManager/FitLifeManager.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Aids/Aids.csproj" />
+    <Project Path="Data/Data.csproj" />
+  </Folder>
 </Solution>
